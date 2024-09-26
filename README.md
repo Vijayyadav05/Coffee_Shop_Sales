@@ -1,13 +1,13 @@
 # Coffee_Shop_Sales
 
-Project Overview
+# Project Overview
 
 
 This project focuses on analyzing and visualizing sales data for a coffee shop using Microsoft Excel. The aim was to gain insights into the sales performance, identify trends, and create a user-friendly dashboard for data-driven decision-making.
 
 
 
-Key Features
+# Key Features
 
 
 Data Cleaning: Performed data cleaning to handle missing values, correct data types, and remove duplicates, ensuring the dataset is ready for analysis.
@@ -25,7 +25,7 @@ Visualizations: Included various visualizations like bar charts, pie charts, and
 User-Friendly Interface: The dashboard is designed to be easily navigable, providing stakeholders with quick insights at a glance.
 
 
-Tools and Technologies:
+# Tools and Technologies:
 
 
 
@@ -47,7 +47,7 @@ Charts and graphs for data visualization
 
 
 
-Insights and Outcomes:
+# Insights and Outcomes:
 
 
 Sales Analysis: Identified top-performing products, peak sales periods, and customer purchase patterns.
